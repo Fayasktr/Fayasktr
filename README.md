@@ -96,16 +96,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fayasktr&show_icons=true&theme=default&v=2" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fayasktr&layout=compact&theme=default&v=2" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fayasktr&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fayasktr&layout=compact&theme=default" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fayasktr&theme=default&v=2" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=fayasktr&theme=default" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/fayas_ktr?theme=light&font=Baloo%202&ext=heatmap&v=2" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/fayas_ktr?theme=light&font=Baloo%202&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
 ---
