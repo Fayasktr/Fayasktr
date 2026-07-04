@@ -5,6 +5,12 @@
   Currently exploring PostgreSQL, DSA, and scalable web application design 🇮🇳
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/fayas-kp-ktr/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -14,6 +20,7 @@
 - 🎓 Coordinator at a technical institute, and an active member of **Future Club**, a student developer community
 - 🌱 Currently learning: PostgreSQL & PL/pgSQL, SQL optimization, System Design fundamentals, and advanced DSA patterns
 - 💬 Ask me about: Node.js, Express, MongoDB, PostgreSQL, REST APIs, Authentication (JWT/OAuth/OTP)
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/fayas-kp-ktr/)**
 - 🌐 Languages: Malayalam (Native), English (Professional working proficiency)
 
 ---
@@ -53,6 +60,23 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+**AI Tools & IDEs**
+![Antigravity IDE](https://img.shields.io/badge/-Antigravity_IDE-000000?style=flat-square)
+![Codex](https://img.shields.io/badge/-Codex-0058A0?style=flat-square)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square)
+![Google AI Studio](https://img.shields.io/badge/-Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+<!-- Add more AI tools here -->
+
+**Productivity Tools**
+![NotebookLM](https://img.shields.io/badge/-NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Comet](https://img.shields.io/badge/-Comet_for_Research-1F1F1F?style=flat-square)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Stitch](https://img.shields.io/badge/-Stitch_for_Design-000000?style=flat-square)
+<!-- Add more productivity tools here -->
+
 ---
 
 ### 🔨 Featured Projects
@@ -72,8 +96,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fayasktr&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayasktr&layout=compact&theme=default" alt="Top Languages" height="165"/>
+  <a href="https://github.com/fayasktr">
+    <img src="https://github-readme-stats.vercel.app/api?username=fayasktr&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
+  </a>
+  <a href="https://github.com/fayasktr">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fayasktr&layout=compact&theme=default" alt="Top Languages" height="165"/>
+  </a>
 </p>
 
 <p align="center">
