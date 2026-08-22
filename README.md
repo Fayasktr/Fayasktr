@@ -93,7 +93,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub & LeetCode Stats
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fayasktr&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
@@ -101,11 +101,11 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fayasktr&theme=default" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fayasktr&theme=github-compact" alt="GitHub Activity Graph" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/fayas_ktr?theme=light&font=Baloo%202&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/fayas_ktr?theme=light&font=Baloo%202&ext=heatmap" alt="LeetCode Stats & Calendar Heatmap"/>
 </p>
 
 ---
