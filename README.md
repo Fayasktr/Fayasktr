@@ -81,7 +81,7 @@
 
 ### 🔨 Featured Projects
 
-**[ZiGo](#)** — Gadget & electronics e-commerce platform
+**[ZiGo](https://github.com/Fayasktr/ZiGo)** — Gadget & electronics e-commerce platform
 - Google OAuth & OTP-based authentication
 - Admin dashboard, product/variant management, coupons
 - Razorpay payment integration, Cloudinary image handling
@@ -96,8 +96,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fayasktr&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fayasktr&layout=compact&theme=default" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fayasktr&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=fayasktr&layout=compact&theme=default" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
