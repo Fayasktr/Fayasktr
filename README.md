@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | MERN & TypeScript | Clean Architecture & Scalable Systems</h3>
 
 <p align="center">
-  Crafting scalable full-stack applications & production-level platforms | Primary Focus: Events & Venue Management System 🇮🇳
+  Crafting scalable full-stack applications & production-level platforms | Core Focus: Interactive Polyglot Notebooks & Event Systems 🇮🇳
 </p>
 
 <p align="center">
@@ -18,13 +18,13 @@
 
 ### 🚀 About Me & Engineering Focus
 
-- 🌟 **Primary Focus**: Co-building a production-grade **Events & Booking Platform** — a collaborative group project engineered for high-availability production deployment with clean architecture, scalable API layers, and modular frontend state.
-- 🌐 **Full-Stack Engineering**: Building responsive and scalable applications with **TypeScript, JavaScript, React, Node.js, Express, PostgreSQL, and MongoDB**.
+- 🌟 **Primary Focus & Flagship Work**: Architecting **[Zoho Notes Pro](https://github.com/Fayasktr/zohoNotesPro.dev)** (interactive polyglot code execution & notebook platform with live review) and co-building a production-grade **Events & Booking Platform**.
+- 🌐 **Full-Stack Engineering**: Building responsive, high-performance applications with **TypeScript, JavaScript, React, Node.js, Express, PostgreSQL, and MongoDB**.
 - 🏛️ **Architecture & State**: Deep focus on **Clean Architecture**, decoupled MVC patterns, robust state management with **Redux Toolkit**, and secure session/auth mechanisms (JWT, OAuth 2.0, OTP).
 - 🧠 **Problem Solving**: Actively sharpening Data Structures & Algorithms on **LeetCode** — focusing on Graphs, Merge Sort, Sliding Window, and non-linear structures.
-- 🤖 **Emerging Tech & Automation**: Exploring **AI agent capabilities**, workflow automation with **n8n**, and leveraging modern AI-assisted engineering workflows.
+- 🤖 **Emerging Tech & Automation**: Exploring **AI agent capabilities**, workflow automation with **n8n**, and integrating Google Gemini AI into developer tools.
 - 👥 **Community & Leadership**: Technical Coordinator and active contributor at **Future Club** developer community and open-source initiatives.
-- 💬 **Ask me about**: Backend Architecture, MERN Stack, PostgreSQL/SQL Optimization, RESTful APIs, and State Management.
+- 💬 **Ask me about**: Backend Architecture, Polyglot Code Runners, MERN Stack, SQL Optimization, REST APIs, and State Management.
 - 🌐 **Languages**: English (Professional proficiency), Malayalam (Native).
 
 ---
@@ -42,11 +42,13 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 ![EJS](https://img.shields.io/badge/-EJS-B4CA65?style=flat-square)
 
 **Backend & Architecture**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/-Clean_Architecture-4A154B?style=flat-square)
 ![REST APIs](https://img.shields.io/badge/-REST_APIs-005571?style=flat-square)
 
@@ -55,6 +57,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Cloud, DevOps & Payments**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/-AWS_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -78,8 +81,16 @@
 
 ### 🔨 Featured Projects & Architecture
 
+**[Zoho Notes Pro](https://github.com/Fayasktr/zohoNotesPro.dev)** — Interactive Polyglot Notebook & Live Code Execution Platform
+- **Polyglot Execution Engine**: Interactive cell-based notebook allowing developers to write rich Markdown documentation alongside runnable code in **JavaScript, TypeScript, Python 3, Java, C, and C++**.
+- **Live Review & Instant Feedback**: Real-time code execution with instantaneous live review and formatted terminal outputs rendered directly beneath active cells via quick shortcuts (`Ctrl + Enter`).
+- **Monaco Editor Integration**: Embedded VS Code editing engine featuring intelligent auto-completion, multi-cursor editing, bracket colorization, and customizable themes.
+- **AI-Powered Assistance**: Integrated **Google Gemini AI** for real-time code explanations, algorithmic optimization, bug diagnostics, and coding quest hints.
+- **Progressive Web App (PWA) & WebSockets**: Offline-first architecture backed by Service Workers (`sw.js`), local storage backup synchronization, and WebSocket channels for real-time state syncing.
+- **Enterprise-Grade Security**: Built on Express 5, MongoDB / Mongoose with persistent session store (`connect-mongo`), Passport.js (Google OAuth 2.0 & bcrypt auth), CSRF protection, Helmet security headers, and rate limiting.
+
 **Events & Venue Management Platform** — Production-Level Group Engineering Project
-- Collaborative production-grade full-stack platform for seamless event management, ticket booking, and venue reservations.
+- Collaborative production-grade full-stack platform for seamless event discovery, ticket allocation, and venue reservations.
 - Driving frontend architecture and collaborative API workflows on GitHub with modular component design and centralized state handling.
 - Engineered for high reliability, concurrent booking flows, and public production deployment.
 
@@ -88,10 +99,6 @@
 - Multi-tier authentication with Google OAuth 2.0 and OTP verification.
 - Comprehensive Admin dashboard, inventory/variant management, category filters, and dynamic coupons.
 - Integrated Razorpay payment gateway, Cloudinary CDN image pipelines, cart, wishlist, and order workflows.
-
-**[OLX Full-Stack Platform](https://github.com/Fayasktr/OLX_clone)** — Classifieds & Marketplace Web App
-- Engineered with React frontend scaffolding, custom state handling, and modular backend API integration.
-- Dynamic product listing, category filtering, search, and user authentication flow.
 
 **[Clean Architecture User Management](https://github.com/Fayasktr/user_management_clean_architecture)** — Enterprise Design Pattern Implementation
 - Structured with strict layer separation (Entities, Use Cases, Controllers, Repositories).
