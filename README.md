@@ -1,99 +1,105 @@
 <h1 align="center">Hi 👋, I'm Fayas</h1>
-<h3 align="center">Backend-focused MERN Stack Developer (Learning) | Building full-stack projects, one commit at a time</h3>
+<h3 align="center">Full-Stack Developer | MERN & TypeScript | Clean Architecture & Scalable Systems</h3>
 
 <p align="center">
-  Currently exploring PostgreSQL, DSA, and scalable web application design 🇮🇳
+  Crafting scalable full-stack applications, robust backend architectures, and solving algorithmic challenges 🇮🇳
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fayas-kp-ktr/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://leetcode.com/u/fayas_ktr/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me & Engineering Focus
 
-- 🔭 Backend-focused **MERN Stack Developer**, currently learning PostgreSQL, Data Structures & Algorithms, and scalable backend design
-- 🛠️ Building **ZiGo** — a gadget/electronics e-commerce platform (Node.js, Express, MongoDB, EJS, Razorpay, Cloudinary, Google OAuth)
-- 🎓 Coordinator at a technical institute, and an active member of **Future Club**, a student developer community
-- 🌱 Currently learning: PostgreSQL & PL/pgSQL, SQL optimization, System Design fundamentals, and advanced DSA patterns
-- 💬 Ask me about: Node.js, Express, MongoDB, PostgreSQL, REST APIs, Authentication (JWT/OAuth/OTP)
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/fayas-kp-ktr/)**
-- 🌐 Languages: Malayalam (Native), English (Professional working proficiency)
+- 🌐 **Full-Stack Engineering**: Building responsive and scalable applications with **TypeScript, JavaScript, React, Node.js, Express, PostgreSQL, and MongoDB**.
+- 🏛️ **Architecture & State**: Deep focus on **Clean Architecture**, decoupled MVC patterns, robust state management with **Redux Toolkit**, and secure session/auth mechanisms (JWT, OAuth 2.0, OTP).
+- 🧠 **Problem Solving**: Actively sharpening Data Structures & Algorithms on **LeetCode** — focusing on Graphs, Merge Sort, Sliding Window, and non-linear structures.
+- 🤖 **Emerging Tech & Automation**: Exploring **AI agent capabilities**, workflow automation with **n8n**, and leveraging modern AI-assisted engineering workflows.
+- 👥 **Community & Leadership**: Technical Coordinator and active contributor at **Future Club** developer community and open-source initiatives.
+- 💬 **Ask me about**: Backend Architecture, MERN Stack, PostgreSQL/SQL Optimization, RESTful APIs, and State Management.
+- 🌐 **Languages**: English (Professional proficiency), Malayalam (Native).
 
 ---
 
 ### 🧰 Tech Stack
 
-**Frontend**
+**Languages & Core**
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frontend & State Management**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![EJS](https://img.shields.io/badge/-EJS-B4CA65?style=flat-square)
 
-**Backend**
+**Backend & Architecture**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/-Clean_Architecture-4A154B?style=flat-square)
+![REST APIs](https://img.shields.io/badge/-REST_APIs-005571?style=flat-square)
 
-**Database**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**Databases & Storage**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Auth & Payments**
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Google OAuth](https://img.shields.io/badge/-Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
-![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
-
-**Cloud & Deployment**
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+**Cloud, DevOps & Payments**
+![AWS EC2](https://img.shields.io/badge/-AWS_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/-Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
 
-**Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-**AI Tools & IDEs**
+**Automation, AI & Developer Tools**
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Antigravity IDE](https://img.shields.io/badge/-Antigravity_IDE-000000?style=flat-square)
-![Codex](https://img.shields.io/badge/-Codex-0058A0?style=flat-square)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square)
 ![Google AI Studio](https://img.shields.io/badge/-Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
-<!-- Add more AI tools here -->
-
-**Productivity Tools**
-![NotebookLM](https://img.shields.io/badge/-NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Comet](https://img.shields.io/badge/-Comet_for_Research-1F1F1F?style=flat-square)
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![Stitch](https://img.shields.io/badge/-Stitch_for_Design-000000?style=flat-square)
-<!-- Add more productivity tools here -->
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🔨 Featured Projects
+### 🔨 Featured Projects & Architecture
 
-**[ZiGo](https://github.com/Fayasktr/ZiGo)** — Gadget & electronics e-commerce platform
-- Google OAuth & OTP-based authentication
-- Admin dashboard, product/variant management, coupons
-- Razorpay payment integration, Cloudinary image handling
-- Cart, wishlist, and order management
+**[ZiGo](https://github.com/Fayasktr/ZiGo)** — Full-Featured Gadget & Electronics E-Commerce Platform
+- Built with Node.js, Express, MongoDB, EJS, and Tailwind CSS.
+- Multi-tier authentication with Google OAuth 2.0 and OTP verification.
+- Comprehensive Admin dashboard, inventory/variant management, category filters, and dynamic coupons.
+- Integrated Razorpay payment gateway, Cloudinary CDN image pipelines, cart, wishlist, and order workflows.
+
+**[OLX Full-Stack Platform](https://github.com/Fayasktr/OLX_clone)** — Classifieds & Marketplace Web App
+- Engineered with React frontend scaffolding, custom state handling, and modular backend API integration.
+- Dynamic product listing, category filtering, search, and user authentication flow.
+
+**[Clean Architecture User Management](https://github.com/Fayasktr/user_management_clean_architecture)** — Enterprise Design Pattern Implementation
+- Structured with strict layer separation (Entities, Use Cases, Controllers, Repositories).
+- Decoupled business logic from database and framework dependencies for high testability and maintainability.
+
+**[LifeNavigator.ai](https://github.com/Fayasktr/lifenavigator.ai)** — AI-Powered Life Navigation & Productivity
+- Structured requirements framework and MVP architecture for intelligent task and life-flow coordination.
 
 **Future Club Attendance Automation** — Google Forms + Google Apps Script
-- Automated attendance processing and name matching
-- Auto status updates and report generation
+- Automated attendance processing, name-matching algorithms, status tracking, and automated reporting.
 
 ---
 
-### 📊 GitHub & LeetCode Stats
+### 📊 GitHub & LeetCode Activity
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fayasktr&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
@@ -110,4 +116,6 @@
 
 ---
 
-<p align="center"><i>Building projects, solving problems, and learning something new every day.</i></p>
+<p align="center">
+  <i>"Building scalable systems, writing clean code, and engineering solutions one commit at a time."</i>
+</p>
