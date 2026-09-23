@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | MERN & TypeScript | Clean Architecture & Scalable Systems</h3>
 
 <p align="center">
-  Crafting scalable full-stack applications, robust backend architectures, and solving algorithmic challenges 🇮🇳
+  Crafting scalable full-stack applications & production-level platforms | Primary Focus: Events & Venue Management System 🇮🇳
 </p>
 
 <p align="center">
@@ -18,6 +18,7 @@
 
 ### 🚀 About Me & Engineering Focus
 
+- 🌟 **Primary Focus**: Co-building a production-grade **Events & Booking Platform** — a collaborative group project engineered for high-availability production deployment with clean architecture, scalable API layers, and modular frontend state.
 - 🌐 **Full-Stack Engineering**: Building responsive and scalable applications with **TypeScript, JavaScript, React, Node.js, Express, PostgreSQL, and MongoDB**.
 - 🏛️ **Architecture & State**: Deep focus on **Clean Architecture**, decoupled MVC patterns, robust state management with **Redux Toolkit**, and secure session/auth mechanisms (JWT, OAuth 2.0, OTP).
 - 🧠 **Problem Solving**: Actively sharpening Data Structures & Algorithms on **LeetCode** — focusing on Graphs, Merge Sort, Sliding Window, and non-linear structures.
@@ -76,6 +77,11 @@
 ---
 
 ### 🔨 Featured Projects & Architecture
+
+**Events & Venue Management Platform** — Production-Level Group Engineering Project
+- Collaborative production-grade full-stack platform for seamless event management, ticket booking, and venue reservations.
+- Driving frontend architecture and collaborative API workflows on GitHub with modular component design and centralized state handling.
+- Engineered for high reliability, concurrent booking flows, and public production deployment.
 
 **[ZiGo](https://github.com/Fayasktr/ZiGo)** — Full-Featured Gadget & Electronics E-Commerce Platform
 - Built with Node.js, Express, MongoDB, EJS, and Tailwind CSS.
